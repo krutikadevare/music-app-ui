@@ -30,4 +30,4 @@ A clean, responsive music app UI concept designed in Figma and embedded via GitH
 
 
 ---
-Designed with Krutika
+Designed by Krutika
