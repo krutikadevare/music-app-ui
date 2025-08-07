@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Music App UI</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 2rem; background: #f8f8f8;">
+
+  <p>View the live music app design below:</p>
+
+  <iframe 
+    style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+    width="800" 
+    height="450" 
+    src="https://embed.figma.com/design/rDTKvWyOB0HtXLDCmBVfNI/Music-App-UI?node-id=0-1&embed-host=share" 
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
