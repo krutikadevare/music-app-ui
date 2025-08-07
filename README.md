@@ -2,10 +2,6 @@
 
 A clean, responsive music app UI concept designed in Figma and embedded via GitHub Pages. Built to showcase simple, mobile-first interface design.
 
-## 🔗 Live Preview
-
-[View the Design](https://yourusername.github.io/music-app-ui/)
-
 ## 🛠 Features
 
 - Embedded Figma design
@@ -13,15 +9,11 @@ A clean, responsive music app UI concept designed in Figma and embedded via GitH
 - Ready for portfolios or presentation
 - Easy to customize or extend
 
-## 📷 Preview
-
-![Design Screenshot](./preview.png)
 
 ## 📁 Files
 
-- `index.html`: Main page with embedded Figma file
-- `preview.png`: Optional screenshot
-- `LICENSE`: Open-source license
+- `index.html`: <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/rDTKvWyOB0HtXLDCmBVfNI/Music-App-UI?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
 
 ## 🧰 Tools Used
 
